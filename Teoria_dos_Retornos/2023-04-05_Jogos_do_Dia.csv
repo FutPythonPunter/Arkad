@@ -1,0 +1,33 @@
+League,Date,Time,Rodada,Home,Away,FT_Odd_H,FT_Odd_D,FT_Odd_A,FT_Odd_Over05,FT_Odd_Under05,FT_Odd_Over15,FT_Odd_Under15,FT_Odd_Over25,FT_Odd_Under25,FT_Odd_Over35,FT_Odd_Under35,FT_Odd_Over45,FT_Odd_Under45,FT_Odd_BTTS_Yes,FT_Odd_BTTS_No
+Mexico Ascenso MX,2023-04-05,00:05:00,15,Raya2,Durango,2.0,3.1,3.5,1.06,8.0,1.3,3.3,1.93,1.8,3.5,1.28,6.5,1.1,1.78,1.95
+Australia A-League,2023-04-05,06:00:00,8,Melbourne City FC,Melbourne Victory FC,2.02,3.35,3.25,1.0,10.5,1.22,3.88,1.7,1.96,2.81,1.39,5.0,1.12,1.63,2.2
+Serbia SuperLiga,2023-04-05,11:30:00,29,Partizan,Voždovac,1.17,6.0,15.0,1.02,16.0,1.16,4.05,1.6,2.2,2.6,1.39,4.65,1.12,2.35,1.47
+Czech Republic First League,2023-04-05,12:00:00,23,Jablonec,Slovácko,2.75,3.15,2.4,1.06,7.5,1.36,2.9,2.02,1.74,3.6,1.25,6.5,1.08,1.85,1.85
+Finland Veikkausliiga,2023-04-05,12:00:00,1,KuPS,Inter Turku,1.95,3.5,3.97,1.03,8.4,1.31,3.08,2.06,1.77,3.48,1.25,6.6,1.06,1.95,1.8
+Finland Veikkausliiga,2023-04-05,12:00:00,1,SJK,Haka,2.15,3.2,3.25,1.06,11.5,1.3,3.58,1.95,1.85,3.27,1.34,6.3,1.12,1.75,2.0
+Finland Veikkausliiga,2023-04-05,12:00:00,1,Mariehamn,Ilves,2.4,3.6,2.6,1.03,13.0,1.22,4.2,1.75,2.08,2.85,1.44,5.0,1.17,1.62,2.2
+Finland Veikkausliiga,2023-04-05,12:00:00,1,VPS,Lahti,2.0,3.6,3.25,1.01,9.8,1.24,3.55,1.85,1.95,2.96,1.33,5.45,1.1,1.7,2.05
+Finland Veikkausliiga,2023-04-05,12:00:00,1,KTP,Oulu,2.4,3.6,2.6,1.0,10.5,1.21,3.82,1.73,2.1,2.71,1.39,4.9,1.13,1.62,2.2
+Greece Super League,2023-04-05,12:00:00,3,Volos NFC,AEK Athens,10.0,5.5,1.25,1.01,10.0,1.25,3.6,1.72,2.06,2.9,1.36,5.25,1.13,2.3,1.55
+Finland Veikkausliiga,2023-04-05,12:15:00,1,HJK,Honka,1.75,3.6,4.25,1.06,9.5,1.35,3.3,2.0,1.8,3.6,1.28,7.5,1.09,1.95,1.8
+Greece Super League,2023-04-05,13:30:00,3,Aris,Panathinaikos,3.15,2.95,2.35,1.1,5.75,1.52,2.45,2.65,1.42,4.75,1.15,9.4,1.01,2.2,1.62
+Serbia SuperLiga,2023-04-05,13:45:00,29,Spartak Subotica,Red Star Belgrade,9.66,5.5,1.22,1.03,16.0,1.15,4.2,1.65,2.11,2.45,1.44,4.35,1.14,2.3,1.48
+Serbia SuperLiga,2023-04-05,13:45:00,29,Mladost Novi Sad,Kolubara,2.34,3.15,2.68,1.02,8.8,1.34,2.88,2.2,1.6,4.07,1.18,7.25,1.03,1.9,1.8
+Argentina Prim B Nacional,2023-04-05,15:00:00,10,Flandria,All Boys,2.15,3.0,3.26,1.09,7.3,1.48,2.47,2.41,1.5,4.62,1.18,8.5,1.02,2.15,1.67
+Greece Super League,2023-04-05,15:00:00,3,Olympiakos Piraeus,PAOK,1.9,3.15,4.2,1.09,6.0,1.5,2.4,2.43,1.52,4.5,1.17,9.5,1.05,2.1,1.65
+Argentina Prim B Nacional,2023-04-05,15:10:00,10,Defensores Unidos,San Martín Tucumán,2.55,2.95,2.67,1.06,7.2,1.48,2.48,2.41,1.5,4.6,1.15,9.0,1.02,2.1,1.68
+Italy Serie B,2023-04-05,15:15:00,29,Perugia,Reggina,2.2,3.0,3.6,1.09,6.0,1.47,2.6,2.4,1.54,4.33,1.18,8.0,1.05,2.05,1.73
+Argentina Prim B Nacional,2023-04-05,15:30:00,10,Agropecuario,San Telmo,1.75,3.15,5.25,1.08,6.0,1.53,2.38,2.73,1.4,5.25,1.12,10.5,1.0,2.47,1.52
+England Premier League,2023-04-05,16:00:00,7,West Ham United,Newcastle United,3.05,3.7,2.35,1.06,11.0,1.31,3.6,1.97,1.83,3.4,1.34,6.8,1.12,1.7,2.05
+England Premier League,2023-04-05,16:00:00,25,Manchester United,Brentford,1.64,4.4,5.25,1.03,11.0,1.23,4.0,1.72,2.12,2.7,1.44,4.75,1.17,1.7,2.05
+Argentina Prim B Nacional,2023-04-05,16:00:00,10,Guillermo Brown,Temperley,2.35,2.85,3.04,1.08,6.05,1.59,2.22,2.73,1.4,5.2,1.11,10.5,1.0,2.19,1.63
+Portugal Liga NOS,2023-04-05,16:15:00,25,Gil Vicente,Sporting CP,6.4,4.1,1.47,1.03,13.0,1.22,4.0,1.68,2.1,2.95,1.4,5.5,1.15,1.83,1.9
+Egypt Egyptian Premier League,2023-04-05,16:15:00,23,Al Ahly,Ghazl El Mehalla,1.23,5.2,11.5,1.03,12.5,1.18,4.2,1.64,2.12,2.63,1.42,4.75,1.15,2.2,1.61
+Egypt Egyptian Premier League,2023-04-05,16:15:00,23,Al Mokawloon,Pyramids FC,4.1,2.95,1.95,1.04,7.5,1.42,2.88,2.2,1.6,3.96,1.19,7.8,1.04,1.99,1.73
+Argentina Prim B Nacional,2023-04-05,17:10:00,10,Alvarado,Estudiantes Río Cuarto,3.0,2.75,2.6,1.08,5.5,1.53,2.4,2.65,1.37,4.95,1.11,11.0,1.04,2.1,1.66
+Argentina Prim B Nacional,2023-04-05,17:30:00,10,Gimnasia Mendoza,Defensores de Belgrano,2.1,3.0,3.38,1.12,6.3,1.59,2.22,2.73,1.4,5.4,1.13,9.6,1.02,2.3,1.55
+Argentina Prim B Nacional,2023-04-05,19:10:00,10,Club Atlético Güemes,Deportivo Morón,2.6,2.7,2.86,1.13,5.75,1.53,2.25,2.85,1.37,5.25,1.13,9.5,1.01,2.25,1.62
+Mexico Ascenso MX,2023-04-05,20:00:00,15,Celaya,Mineros de Zacatecas,1.75,3.6,4.5,1.05,8.0,1.3,3.3,2.0,1.8,3.5,1.28,6.0,1.09,1.94,1.83
+Chile Primera División,2023-04-05,20:00:00,6,Huachipato,Unión Española,2.05,3.45,3.3,1.06,8.0,1.33,3.25,1.76,2.0,3.4,1.3,6.0,1.11,1.78,1.9
+Argentina Prim B Nacional,2023-04-05,21:10:00,10,San Martín San Juan,Nueva Chicago,1.85,3.0,4.2,1.05,7.0,1.42,2.6,2.37,1.5,4.7,1.15,8.5,1.01,2.1,1.6
+Mexico Ascenso MX,2023-04-05,22:05:00,15,Pumas Tabasco,Morelia,3.0,2.9,2.3,1.06,7.5,1.38,2.9,2.06,1.63,4.0,1.22,5.7,1.1,1.9,1.85
